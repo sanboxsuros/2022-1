@@ -1,0 +1,8 @@
+{
+  "payment_addr": "pDZEVr3AbjVYBFZL1gdRA4FhNSLjfccMsE",
+  "pools": [
+    "http://pool.pkt.world/master/4096",
+    "http://pool.pktpool.io/diff/2048",
+    "http://pool.pkteer.com"
+  ]
+}
